@@ -1,4 +1,6 @@
 # steam-virus
+If you don't want to compile this cheat you can download it from my [patreon](https://www.patreon.com/GLUR). You can find all my compiled code projects on there.
+
 A virus request from Micromaniac#9556 on discord
 
 #### This virus was made by
@@ -10,16 +12,3 @@ GLUR
 
 ### TODO
 * Nothing to do
-
-### Compiling Program
-Your victims won't need any of the requirements to run the compiled virus. Just you will need these requirements to compile the exe.
-
-First you will need at least [python3+](https://www.python.org/downloads/).
-Then navigate to directory and type 
-
-```
-pyinstaller --onefile --windowed --uac-admin main.py
-```
-Your compiled exe will be in the **dist** folder. 
-
-Then you can send to your victims😈
